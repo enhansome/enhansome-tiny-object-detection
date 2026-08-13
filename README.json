@@ -19,7 +19,7 @@
             "last_commit": "2024-03-12T15:58:25Z",
             "owner": "facebookresearch",
             "repo": "detr",
-            "stars": 15358
+            "stars": 15357
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-07T19:56:02Z",
             "owner": "obss",
             "repo": "sahi",
-            "stars": 5458
+            "stars": 5459
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2023-09-24T06:42:49Z",
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2489
+            "stars": 2493
           }
         },
         {
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:32:05.779Z",
+    "last_updated": "2026-08-13T16:23:21.469Z",
     "original_repository": "kuanhungchen/awesome-tiny-object-detection",
     "original_repository_sha": "9ddc2a462dae2d90bf7d84d26423e0b8cad04166",
     "enhanced_repository": "enhansome/enhansome-tiny-object-detection",
