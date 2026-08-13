@@ -1,0 +1,705 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "End-to-End Object Detection with Transformers [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-12T15:58:25Z",
+            "owner": "facebookresearch",
+            "repo": "detr",
+            "stars": 15358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EfficientDet: Scalable and Efficient Object Detection [Paper]",
+          "description": "[Code] [PyTorch] [PyTorch] [PyTorch] [TensorFlow]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-03-02T07:46:39Z",
+            "owner": "google",
+            "repo": "automl",
+            "stars": 6477
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection [Paper]",
+          "description": "[Code] [Benchmark]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T19:56:02Z",
+            "owner": "obss",
+            "repo": "sahi",
+            "stars": 5458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deformable Convolutional Networks [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-27T01:43:43Z",
+            "owner": "msracver",
+            "repo": "Deformable-ConvNets",
+            "stars": 4119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YOLOv3: An Incremental Improvement [Paper]",
+          "description": "[Project] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T12:30:23Z",
+            "owner": "ayooshkathuria",
+            "repo": "pytorch-yolo-v3",
+            "stars": 3312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scale-Aware Trident Networks for Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-09-23T02:57:09Z",
+            "owner": "tusen-ai",
+            "repo": "simpledet",
+            "stars": 3084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SNIPER: Efficient Multi-Scale Training [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-22T01:17:53Z",
+            "owner": "mahyarnajibi",
+            "repo": "SNIPER",
+            "stars": 2690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Focal Loss for Dense Object Detection [Paper]",
+          "description": "[PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-04-29T14:16:18Z",
+            "owner": "yhenon",
+            "repo": "pytorch-retinanet",
+            "stars": 2206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-11-14T10:21:38Z",
+            "owner": "VDIGPKU",
+            "repo": "M2Det",
+            "stars": 1438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Single-Shot Refinement Neural Network for Object Detection [Paper]",
+          "description": "[Code] [PyTorch]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-03-18T12:42:45Z",
+            "owner": "sfzhang15",
+            "repo": "RefineDet",
+            "stars": 1424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Spatial Fusion for Single-Shot Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-24T02:37:08Z",
+            "owner": "GOATmessi8",
+            "repo": "ASFF",
+            "stars": 1084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cascade R-CNN Delving into High Quality Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-09-10T01:56:40Z",
+            "owner": "zhaoweicai",
+            "repo": "cascade-rcnn",
+            "stars": 1061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-29T23:11:39Z",
+            "owner": "dingjiansw101",
+            "repo": "AerialDetection",
+            "stars": 831
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scale Match for Tiny Person Detection [Paper]",
+          "description": "[Benchmark]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-12T07:10:04Z",
+            "owner": "ucas-vg",
+            "repo": "PointTinyBenchmark",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepPoints: Point Set Representation for Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-12T18:21:38Z",
+            "owner": "microsoft",
+            "repo": "RepPoints",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-29T01:54:05Z",
+            "owner": "Thinklab-SJTU",
+            "repo": "R3Det_Tensorflow",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-22T10:08:17Z",
+            "owner": "ChenhongyiYang",
+            "repo": "QueryDet-PyTorch",
+            "stars": 480
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-19T21:13:47Z",
+            "owner": "yijingru",
+            "repo": "BBAVectors-Oriented-Object-Detection",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-24T07:28:43Z",
+            "owner": "ViTAE-Transformer",
+            "repo": "Remote-Sensing-RVSA",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-08T18:12:14Z",
+            "owner": "shinya7y",
+            "repo": "UniverseNet",
+            "stars": 431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReDet: A Rotation-equivariant Detector for Aerial Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-28T12:13:50Z",
+            "owner": "csuhan",
+            "repo": "ReDet",
+            "stars": 428
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DetNet: A Backbone network for Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-01T12:32:43Z",
+            "owner": "ruoqianguo",
+            "repo": "DetNet_pytorch",
+            "stars": 376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Accurate Single Stage Detector Using Recurrent Rolling Convolution [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-05-20T08:05:51Z",
+            "owner": "xiaohaoChen",
+            "repo": "rrc_detection",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-13T11:31:23Z",
+            "owner": "Chasel-Tsui",
+            "repo": "mmdet-rfla",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepPoints V2: Verification Meets Regression for Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-11-20T17:33:38Z",
+            "owner": "Scalsol",
+            "repo": "RepPointsV2",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2019-12-09T03:46:12Z",
+            "owner": "avanetten",
+            "repo": "yolt",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Augmentation for small object detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-07-19T03:37:14Z",
+            "owner": "gmayday1997",
+            "repo": "SmallObjectAugmentation",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corner Proposal Network for Anchor-free, Two-stage Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-05-14T11:07:26Z",
+            "owner": "Duankaiwen",
+            "repo": "CPNDet",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HoughNet: Integrating near and long-range evidence for bottom-up object detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-15T08:37:01Z",
+            "owner": "nerminsamet",
+            "repo": "houghnet",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-08T05:25:29Z",
+            "owner": "arashwan",
+            "repo": "matrixnet",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DSSD : Deconvolutional Single Shot Detector [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2017-04-11T15:56:19Z",
+            "owner": "chengyangfu",
+            "repo": "caffe",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interactive Multi-Class Tiny-Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-28T08:51:55Z",
+            "owner": "ChungYi347",
+            "repo": "Interactive-Multi-Class-Tiny-Object-Detection",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSSD: Feature Fusion Single Shot Multibox Detector [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2018-01-31T09:28:33Z",
+            "owner": "lzx1413",
+            "repo": "CAFFE_SSD",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enriched Feature Guided Refinement Network for Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-20T14:03:42Z",
+            "owner": "Ranchentx",
+            "repo": "EFGRNet",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Calibrated-Guidance for Object Detection in Aerial Images [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-04-04T09:07:29Z",
+            "owner": "WeiZongqi",
+            "repo": "CG-Net",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scale-Transferrable Object Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-07T07:35:46Z",
+            "owner": "arvention",
+            "repo": "STDN-PyTorch",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature-Fused SSD: Fast Detection for Small Objects [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-27T07:52:47Z",
+            "owner": "wnzhyee",
+            "repo": "Feature-Fused-SSD",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ensemble Fusion for Small Object Detection [Paper]",
+          "description": "[Code]",
+          "children": []
+        }
+      ],
+      "title": "Tiny Object Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Finding Tiny Faces [Paper]",
+          "description": "[Project] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2020-03-21T02:04:30Z",
+            "owner": "peiyunh",
+            "repo": "tiny",
+            "stars": 1143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinaFace: Strong but Simple Baseline for Face Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-09T21:50:13Z",
+            "owner": "Media-Smart",
+            "repo": "vedadet",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust Face Detection via Learning Small Faces on Hard Images [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-08-04T20:42:25Z",
+            "owner": "bairdzhang",
+            "repo": "smallhardface",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "Tiny Face Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-22T01:39:10Z",
+            "owner": "liuwei16",
+            "repo": "CSP",
+            "stars": 753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Feature Selective Anchor-Free Module for Single-Shot Object Detection [Paper]",
+          "description": "[PyTorch] [TensorFlow]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T17:18:44Z",
+            "owner": "hdjang",
+            "repo": "Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection",
+            "stars": 147
+          }
+        }
+      ],
+      "title": "Tiny Pedestrian Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Detection and Tracking Meet Drones Challenge [Paper]",
+          "description": "[Project] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-09-24T06:42:49Z",
+            "owner": "VisDrone",
+            "repo": "VisDrone-Dataset",
+            "stars": 2489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tiny Object Detection in Aerial Images [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-13T20:00:00Z",
+            "owner": "jwwangchn",
+            "repo": "AI-TOD",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bosch Small Traffic Lights Dataset [Paper]",
+          "description": "[Project] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-08-08T17:17:39Z",
+            "owner": "bosch-ros-pkg",
+            "repo": "bstld",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results [Paper]",
+          "description": "[Project] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T01:58:32Z",
+            "owner": "IIM-TTIJ",
+            "repo": "MVA2023SmallObjectDetection4SpottingBirds",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepScores – A Dataset for Segmentation, Detection and Classification of Tiny Objects [Paper]",
+          "description": "[Project] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-01T13:43:07Z",
+            "owner": "tuggeluk",
+            "repo": "DeepScoresExamples",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "Datasets"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:32:05.779Z",
+    "original_repository": "kuanhungchen/awesome-tiny-object-detection",
+    "original_repository_sha": "9ddc2a462dae2d90bf7d84d26423e0b8cad04166",
+    "enhanced_repository": "enhansome/enhansome-tiny-object-detection",
+    "enhanced_repository_description": null,
+    "title": "Awesome Tiny Object Detection with stars"
+  }
+}
