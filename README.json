@@ -33,7 +33,7 @@
             "last_commit": "2025-03-02T07:46:39Z",
             "owner": "google",
             "repo": "automl",
-            "stars": 6477
+            "stars": 6478
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-07T19:56:02Z",
             "owner": "obss",
             "repo": "sahi",
-            "stars": 5465
+            "stars": 5467
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2022-10-15T08:37:01Z",
             "owner": "nerminsamet",
             "repo": "houghnet",
-            "stars": 176
+            "stars": 175
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2023-09-24T06:42:49Z",
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2493
+            "stars": 2495
           }
         },
         {
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T16:13:10.205Z",
+    "last_updated": "2026-08-15T15:43:00.378Z",
     "original_repository": "kuanhungchen/awesome-tiny-object-detection",
     "original_repository_sha": "9ddc2a462dae2d90bf7d84d26423e0b8cad04166",
     "enhanced_repository": "enhansome/enhansome-tiny-object-detection",
