@@ -19,7 +19,7 @@
             "last_commit": "2024-03-12T15:58:25Z",
             "owner": "facebookresearch",
             "repo": "detr",
-            "stars": 15356
+            "stars": 15355
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-16T22:10:27Z",
             "owner": "obss",
             "repo": "sahi",
-            "stars": 5466
+            "stars": 5467
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2023-04-29T14:16:18Z",
             "owner": "yhenon",
             "repo": "pytorch-retinanet",
-            "stars": 2206
+            "stars": 2205
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2021-10-29T23:11:39Z",
             "owner": "dingjiansw101",
             "repo": "AerialDetection",
-            "stars": 831
+            "stars": 832
           }
         },
         {
@@ -631,7 +631,7 @@
             "last_commit": "2023-09-24T06:42:49Z",
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2498
+            "stars": 2499
           }
         },
         {
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T15:48:11.874Z",
+    "last_updated": "2026-08-18T15:55:25.351Z",
     "original_repository": "kuanhungchen/awesome-tiny-object-detection",
     "original_repository_sha": "9ddc2a462dae2d90bf7d84d26423e0b8cad04166",
     "enhanced_repository": "enhansome/enhansome-tiny-object-detection",
