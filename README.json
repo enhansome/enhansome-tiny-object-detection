@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-12T15:58:25Z",
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15355
+                "stars": 15354
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-18T23:46:02Z",
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5470
+                "stars": 5469
               }
             },
             {
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:57:30.834Z",
+    "last_updated": "2026-08-19T15:55:13.081Z",
     "original_repository": "kuanhungchen/awesome-tiny-object-detection",
     "original_repository_id": 177510921,
     "original_repository_sha": "9ddc2a462dae2d90bf7d84d26423e0b8cad04166",
