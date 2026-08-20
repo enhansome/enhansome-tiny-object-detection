@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 334412452,
                 "language": "Python",
-                "last_commit": "2026-08-18T23:46:02Z",
+                "last_commit": "2026-08-20T06:23:23Z",
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5469
+                "stars": 5472
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2021-09-23T02:57:09Z",
                 "owner": "tusen-ai",
                 "repo": "simpledet",
-                "stars": 3084
+                "stars": 3085
               }
             },
             {
@@ -672,7 +672,7 @@
             "last_commit": "2023-09-24T06:42:49Z",
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2501
+            "stars": 2503
           }
         },
         {
@@ -740,7 +740,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T15:55:13.081Z",
+    "last_updated": "2026-08-20T15:57:46.700Z",
     "original_repository": "kuanhungchen/awesome-tiny-object-detection",
     "original_repository_id": 177510921,
     "original_repository_sha": "9ddc2a462dae2d90bf7d84d26423e0b8cad04166",
