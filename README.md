@@ -242,7 +242,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
   * Licheng Jiao, Fan Zhang, Fang Liu, Shuyuan Yang, Lingling Li, Zhixi Feng, Rong Qu ***IEEE Access 2019***
 * **Recent Advances in Deep Learning for Object Detection** [\[Paper\]](https://arxiv.org/abs/1908.03673)
   * Xiongwei Wu, Doyen Sahoo, Steven C.H. Hoi ***CoRR 2019***
-* **Imbalance Problems in Object Detection: A Review** [\[Paper\]](https://arxiv.org/abs/1909.00169) [\[Project\]](https://github.com/kemaloksuz/ObjectDetectionImbalance) ⭐ 1,127 | 🐛 3 | 📅 2021-07-29
+* **Imbalance Problems in Object Detection: A Review** [\[Paper\]](https://arxiv.org/abs/1909.00169) [\[Project\]](https://github.com/kemaloksuz/ObjectDetectionImbalance) ⭐ 1,126 | 🐛 3 | 📅 2021-07-29
   * Kemal Oksuz, Baris Can Cam, Sinan Kalkan, Emre Akbas ***TPAMI 2020***
 * **Object Detection in 20 Years: A Survey** [\[Paper\]](https://arxiv.org/abs/1905.05055)
   * Zhengxia Zou, Zhenwei Shi, Yuhong Guo, Jieping Ye ***submitted to TPAMI 2019***
