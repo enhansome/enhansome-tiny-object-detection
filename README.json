@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-22T20:39:30Z",
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5473
+                "stars": 5474
               }
             },
             {
@@ -672,7 +672,7 @@
             "last_commit": "2023-09-24T06:42:49Z",
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2514
+            "stars": 2516
           }
         },
         {
@@ -740,9 +740,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:35:41.364Z",
-    "original_repository": "kuanhungchen/awesome-tiny-object-detection",
-    "original_repository_id": 177510921,
+    "last_updated": "2026-08-27T12:08:14.733Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 177510921,
+      "language": null,
+      "last_commit": "2023-10-04T16:37:36Z",
+      "owner": "kuanhungchen",
+      "repo": "awesome-tiny-object-detection",
+      "stars": 1629
+    },
     "original_repository_sha": "9ddc2a462dae2d90bf7d84d26423e0b8cad04166",
     "enhanced_repository": "enhansome/enhansome-tiny-object-detection",
     "enhanced_repository_description": null,
