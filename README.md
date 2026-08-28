@@ -70,7 +70,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
   * Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun ***ECCV 2018***
 * **Accurate Single Stage Detector Using Recurrent Rolling Convolution** [\[Paper\]](https://arxiv.org/abs/1704.05776) [\[Code\]](https://github.com/xiaohaoChen/rrc_detection) ⭐ 358 | 🐛 36 | 🌐 C++ | 📅 2017-05-20
   * Jimmy Ren, Xiaohao Chen, Jianbo Liu, Wenxiu Sun, Jiahao Pang, Qiong Yan, Yu-Wing Tai, Li Xu ***CVPR 2017***
-* **RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection** [\[Paper\]](https://arxiv.org/abs/2208.08738) [\[Code\]](https://github.com/Chasel-Tsui/mmdet-rfla) ⭐ 303 | 🐛 28 | 🌐 Python | 📅 2023-04-13
+* **RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection** [\[Paper\]](https://arxiv.org/abs/2208.08738) [\[Code\]](https://github.com/Chasel-Tsui/mmdet-rfla) ⭐ 304 | 🐛 28 | 🌐 Python | 📅 2023-04-13
   * Chang Xu, Jinwang Wang, Wen Yang, Huai Yu, Lei Yu, Gui-Song Xia ***ECCV 2022***
 * **RepPoints V2: Verification Meets Regression for Object Detection** [\[Paper\]](https://arxiv.org/abs/2007.08508) [\[Code\]](https://github.com/Scalsol/RepPointsV2) ⭐ 294 | 🐛 14 | 🌐 Python | 📅 2020-11-20
   * Yihong Chen, Zheng Zhang, Yue Cao, Liwei Wang, Stephen Lin, Han Hu **arXiv 2020**
@@ -260,4 +260,4 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
