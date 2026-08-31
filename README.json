@@ -69,7 +69,7 @@
                 "open_issues": 1,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5482,
+                "stars": 5486,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -204,7 +204,7 @@
                 "open_issues": 148,
                 "owner": "yhenon",
                 "repo": "pytorch-retinanet",
-                "stars": 2205,
+                "stars": 2204,
                 "topics": [
                   "python",
                   "pytorch",
@@ -294,7 +294,7 @@
                 "open_issues": 50,
                 "owner": "zhaoweicai",
                 "repo": "cascade-rcnn",
-                "stars": 1061,
+                "stars": 1060,
                 "topics": [
                   "object-detection"
                 ]
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2519,
+            "stars": 2522,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:41:04.668Z",
+    "last_updated": "2026-08-31T20:55:30.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
