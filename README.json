@@ -69,7 +69,7 @@
                 "open_issues": 1,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5486,
+                "stars": 5490,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -457,7 +457,7 @@
                 "open_issues": 32,
                 "owner": "ViTAE-Transformer",
                 "repo": "Remote-Sensing-RVSA",
-                "stars": 467,
+                "stars": 468,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2522,
+            "stars": 2523,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T20:55:30.058Z",
+    "last_updated": "2026-09-01T18:40:54.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
