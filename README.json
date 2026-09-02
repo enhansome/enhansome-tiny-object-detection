@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6474,
+                "stars": 6475,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -317,7 +317,7 @@
                 "open_issues": 72,
                 "owner": "dingjiansw101",
                 "repo": "AerialDetection",
-                "stars": 832,
+                "stars": 833,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2523,
+            "stars": 2526,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:40:54.454Z",
+    "last_updated": "2026-09-02T18:50:28.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",

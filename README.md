@@ -48,7 +48,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
   * Songtao Liu, Di Huang, Yunhong Wang ***arXiv 2019***
 * **Cascade R-CNN Delving into High Quality Object Detection** [\[Paper\]](https://arxiv.org/abs/1712.00726) [\[Code\]](https://github.com/zhaoweicai/cascade-rcnn) ⭐ 1,060 | 🐛 50 | 🌐 C++ | 📅 2019-09-10
   * Zhaowei Cai, Nuno Vasconcelos ***CVPR 2018***
-* **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [\[Paper\]](https://arxiv.org/abs/2102.12219) [\[Code\]](https://github.com/dingjiansw101/AerialDetection) ⭐ 832 | 🐛 72 | 🌐 Python | 📅 2021-10-29
+* **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [\[Paper\]](https://arxiv.org/abs/2102.12219) [\[Code\]](https://github.com/dingjiansw101/AerialDetection) ⭐ 833 | 🐛 72 | 🌐 Python | 📅 2021-10-29
   * Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, Wen Yang, Micheal Ying Yang, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***arXiv 2021***
 * **Scale Match for Tiny Person Detection** [\[Paper\]](https://arxiv.org/abs/1912.10664) [\[Benchmark\]](https://github.com/ucas-vg/TinyBenchmark) ⭐ 693 | 🐛 35 | 🌐 Python | 📅 2025-06-12
   * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
@@ -199,7 +199,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ## Datasets
 
-* **Detection and Tracking Meet Drones Challenge** [\[Paper\]](https://arxiv.org/abs/2001.06303) [\[Project\]](http://aiskyeye.com/) [\[Code\]](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,523 | 🐛 51 | 📅 2023-09-24
+* **Detection and Tracking Meet Drones Challenge** [\[Paper\]](https://arxiv.org/abs/2001.06303) [\[Project\]](http://aiskyeye.com/) [\[Code\]](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,526 | 🐛 51 | 📅 2023-09-24
   * Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling ***TPAMI 2021***
 * **Tiny Object Detection in Aerial Images** [\[Paper\]](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) [\[Code\]](https://github.com/jwwangchn/AI-TOD) ⭐ 273 | 🐛 31 | 🌐 Python | 📅 2024-11-13
   * Jinwang Wang, Wen Yang, Haowen Guo, Ruixiang Zhang, Gui-Song Xia ***ICPR 2021***
@@ -260,4 +260,4 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
