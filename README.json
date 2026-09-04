@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15354,
+                "stars": 15353,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -65,11 +65,11 @@
                 "id": 334412452,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T06:23:30Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-03T20:25:05Z",
+                "open_issues": 1,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5492,
+                "stars": 5493,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -338,7 +338,7 @@
                 "open_issues": 35,
                 "owner": "ucas-vg",
                 "repo": "PointTinyBenchmark",
-                "stars": 693,
+                "stars": 694,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -415,7 +415,7 @@
                 "open_issues": 46,
                 "owner": "ChenhongyiYang",
                 "repo": "QueryDet-PyTorch",
-                "stars": 481,
+                "stars": 482,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2529,
+            "stars": 2530,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:48:50.200Z",
+    "last_updated": "2026-09-04T18:31:11.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
