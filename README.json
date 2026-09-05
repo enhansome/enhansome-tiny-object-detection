@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2530,
+            "stars": 2531,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1130,7 +1130,7 @@
             "open_issues": 6,
             "owner": "IIM-TTIJ",
             "repo": "MVA2023SmallObjectDetection4SpottingBirds",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "competition",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:31:11.264Z",
+    "last_updated": "2026-09-05T17:25:50.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
@@ -1183,7 +1183,7 @@
       "open_issues": 2,
       "owner": "kuanhungchen",
       "repo": "awesome-tiny-object-detection",
-      "stars": 1629,
+      "stars": 1630,
       "topics": [
         "awesome-list",
         "face-detection",
