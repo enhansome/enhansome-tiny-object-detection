@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15353,
+                "stars": 15352,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -65,11 +65,11 @@
                 "id": 334412452,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-03T20:25:05Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-10T06:24:12Z",
+                "open_issues": 4,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5496,
+                "stars": 5497,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -158,7 +158,7 @@
                 "open_issues": 44,
                 "owner": "tusen-ai",
                 "repo": "simpledet",
-                "stars": 3085,
+                "stars": 3086,
                 "topics": [
                   "instance-segmentation",
                   "mxnet",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2541,
+            "stars": 2542,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T18:44:50.799Z",
+    "last_updated": "2026-09-10T18:35:54.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
