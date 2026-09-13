@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6474,
+                "stars": 6475,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -415,7 +415,7 @@
                 "open_issues": 46,
                 "owner": "ChenhongyiYang",
                 "repo": "QueryDet-PyTorch",
-                "stars": 482,
+                "stars": 483,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -457,7 +457,7 @@
                 "open_issues": 32,
                 "owner": "ViTAE-Transformer",
                 "repo": "Remote-Sensing-RVSA",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2547,
+            "stars": 2548,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 31,
             "owner": "jwwangchn",
             "repo": "AI-TOD",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "aerial-images",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T17:46:15.359Z",
+    "last_updated": "2026-09-13T18:16:37.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
@@ -1183,7 +1183,7 @@
       "open_issues": 2,
       "owner": "kuanhungchen",
       "repo": "awesome-tiny-object-detection",
-      "stars": 1630,
+      "stars": 1631,
       "topics": [
         "awesome-list",
         "face-detection",
