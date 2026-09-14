@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15353,
+                "stars": 15352,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -69,7 +69,7 @@
                 "open_issues": 5,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5498,
+                "stars": 5501,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -273,7 +273,7 @@
                 "open_issues": 50,
                 "owner": "GOATmessi8",
                 "repo": "ASFF",
-                "stars": 1085,
+                "stars": 1084,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -389,7 +389,7 @@
                 "open_issues": 14,
                 "owner": "Thinklab-SJTU",
                 "repo": "R3Det_Tensorflow",
-                "stars": 545,
+                "stars": 544,
                 "topics": [
                   "dota",
                   "object-detection",
@@ -454,7 +454,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2025-02-24T07:28:43Z",
-                "open_issues": 32,
+                "open_issues": 33,
                 "owner": "ViTAE-Transformer",
                 "repo": "Remote-Sensing-RVSA",
                 "stars": 469,
@@ -517,7 +517,7 @@
                 "open_issues": 89,
                 "owner": "csuhan",
                 "repo": "ReDet",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "aerial-imagery",
                   "mmdetection",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2548,
+            "stars": 2550,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 31,
             "owner": "jwwangchn",
             "repo": "AI-TOD",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "aerial-images",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:16:37.250Z",
+    "last_updated": "2026-09-14T19:53:54.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
