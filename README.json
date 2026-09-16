@@ -69,7 +69,7 @@
                 "open_issues": 5,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5501,
+                "stars": 5500,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -317,7 +317,7 @@
                 "open_issues": 72,
                 "owner": "dingjiansw101",
                 "repo": "AerialDetection",
-                "stars": 834,
+                "stars": 835,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2554,
+            "stars": 2556,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T19:08:08.850Z",
+    "last_updated": "2026-09-16T18:59:43.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
