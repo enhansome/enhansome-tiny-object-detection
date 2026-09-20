@@ -260,4 +260,4 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
