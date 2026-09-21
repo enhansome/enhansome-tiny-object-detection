@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6475,
+                "stars": 6474,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -69,7 +69,7 @@
                 "open_issues": 3,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5509,
+                "stars": 5511,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -204,7 +204,7 @@
                 "open_issues": 148,
                 "owner": "yhenon",
                 "repo": "pytorch-retinanet",
-                "stars": 2200,
+                "stars": 2202,
                 "topics": [
                   "python",
                   "pytorch",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:14:28.625Z",
+    "last_updated": "2026-09-21T20:04:30.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
