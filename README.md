@@ -15,7 +15,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ## Activities
 
-* **Challenge on Small Object Detection for Birds 2023** [\[Project\]](http://www.mva-org.jp/mva2023/challenge) [\[Code\]](https://github.com/IIM-TTIJ/MVA2023BirdDetection) ⭐ 143 | 🐛 6 | 🌐 Python | 📅 2023-10-03
+* **Challenge on Small Object Detection for Birds 2023** [\[Project\]](http://www.mva-org.jp/mva2023/challenge) [\[Code\]](https://github.com/IIM-TTIJ/MVA2023BirdDetection) ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2023-10-03
   * ***MVA 2023***, July 23rd - 25th, 2023, ACT CITY Hamamatsu, Japan
 * **1st Tiny Object Detection (TOD) Challenge Real-world Recognition from Low-quality Inputs (RLQ)** [\[Project\]](https://rlq-tod.github.io/index.html)
   * ***ECCV 2020***, August 23rd - 28th, 2020, SEC, GLASGOW
@@ -199,13 +199,13 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ## Datasets
 
-* **Detection and Tracking Meet Drones Challenge** [\[Paper\]](https://arxiv.org/abs/2001.06303) [\[Project\]](http://aiskyeye.com/) [\[Code\]](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,559 | 🐛 51 | 📅 2023-09-24
+* **Detection and Tracking Meet Drones Challenge** [\[Paper\]](https://arxiv.org/abs/2001.06303) [\[Project\]](http://aiskyeye.com/) [\[Code\]](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,566 | 🐛 51 | 📅 2023-09-24
   * Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling ***TPAMI 2021***
 * **Tiny Object Detection in Aerial Images** [\[Paper\]](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) [\[Code\]](https://github.com/jwwangchn/AI-TOD) ⭐ 277 | 🐛 31 | 🌐 Python | 📅 2024-11-13
   * Jinwang Wang, Wen Yang, Haowen Guo, Ruixiang Zhang, Gui-Song Xia ***ICPR 2021***
 * **Bosch Small Traffic Lights Dataset** [\[Paper\]](https://ieeexplore.ieee.org/document/7989163) [\[Project\]](https://hci.iwr.uni-heidelberg.de/node/6132) [\[Code\]](https://github.com/bosch-ros-pkg/bstld) ⭐ 184 | 🐛 3 | 🌐 Python | 📅 2020-08-08
   * Karsten Behrendt, Libor Novak, Rami Botros ***ICRA 2017***
-* **MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results** [\[Paper\]](https://arxiv.org/abs/2307.09143) [\[Project\]](https://mva-org.jp/mva2023/challenge) [\[Code\]](https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds) ⭐ 143 | 🐛 6 | 🌐 Python | 📅 2023-10-03
+* **MVA2023 Small Object Detection Challenge for Spotting Birds: Dataset, Methods, and Results** [\[Paper\]](https://arxiv.org/abs/2307.09143) [\[Project\]](https://mva-org.jp/mva2023/challenge) [\[Code\]](https://github.com/IIM-TTIJ/MVA2023SmallObjectDetection4SpottingBirds) ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2023-10-03
   * Yuki Kondo, Norimichi Ukita, Takayuki Yamaguchi, Hao-Yu Hou, Mu-Yi Shen, Chia-Chi Hsu, En-Ming Huang, Yu-Chen Huang, Yu-Cheng Xia, Chien-Yao Wang, Chun-Yi Lee, Da Huo, Marc A. Kastner, Tingwei Liu, Yasutomo Kawanishi, Takatsugu Hirayama, Takahiro Komamizu, Ichiro Ide, Yosuke Shinya, Xinyao Liu, Guang Liang, Syusuke Yasui ***MVA 2023***
 * **DeepScores – A Dataset for Segmentation, Detection and Classification of Tiny Objects** [\[Paper\]](https://tuggeluk.github.io/papers/preprint_deepscores.pdf) [\[Project\]](https://tuggeluk.github.io/deepscores/) [\[Code\]](https://github.com/tuggeluk/DeepScoresExamples) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2021-10-01
   * Lukas Tuggener, Ismail Elezi, Jurgen Schmidhuber, Marcello Pelillo, Thilo Stadelmann ***ICPR 2018***
@@ -260,4 +260,4 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
