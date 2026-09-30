@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15350,
+                "stars": 15351,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -65,11 +65,11 @@
                 "id": 334412452,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T22:45:49Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-30T16:53:46Z",
+                "open_issues": 0,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5518,
+                "stars": 5520,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -183,7 +183,7 @@
                 "open_issues": 115,
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
-                "stars": 2689,
+                "stars": 2691,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -338,7 +338,7 @@
                 "open_issues": 35,
                 "owner": "ucas-vg",
                 "repo": "PointTinyBenchmark",
-                "stars": 695,
+                "stars": 697,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2578,
+            "stars": 2579,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 31,
             "owner": "jwwangchn",
             "repo": "AI-TOD",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "aerial-images",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T20:05:45.081Z",
+    "last_updated": "2026-09-30T20:10:44.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
