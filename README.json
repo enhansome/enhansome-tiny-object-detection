@@ -66,10 +66,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-30T16:53:46Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5520,
+                "stars": 5524,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -132,7 +132,7 @@
                 "open_issues": 112,
                 "owner": "ayooshkathuria",
                 "repo": "pytorch-yolo-v3",
-                "stars": 3313,
+                "stars": 3314,
                 "topics": [
                   "object-detection",
                   "pytorch",
@@ -183,7 +183,7 @@
                 "open_issues": 115,
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
-                "stars": 2691,
+                "stars": 2692,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -204,7 +204,7 @@
                 "open_issues": 148,
                 "owner": "yhenon",
                 "repo": "pytorch-retinanet",
-                "stars": 2203,
+                "stars": 2204,
                 "topics": [
                   "python",
                   "pytorch",
@@ -586,7 +586,7 @@
                 "open_issues": 28,
                 "owner": "Chasel-Tsui",
                 "repo": "mmdet-rfla",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2579,
+            "stars": 2584,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:10:44.079Z",
+    "last_updated": "2026-10-01T20:25:07.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
