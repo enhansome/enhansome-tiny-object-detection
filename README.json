@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "End-to-End Object Detection with Transformers [Paper]",
-              "description": "[Code]",
+              "description": "facebookresearch/detr",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6474,
+                "stars": 6473,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -69,7 +69,7 @@
                 "open_issues": 2,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5524,
+                "stars": 5526,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -98,7 +98,7 @@
             {
               "node_type": "item",
               "title": "Deformable Convolutional Networks [Paper]",
-              "description": "[Code]",
+              "description": "msracver/Deformable-ConvNets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -145,7 +145,7 @@
             {
               "node_type": "item",
               "title": "Scale-Aware Trident Networks for Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "tusen-ai/simpledet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -170,7 +170,7 @@
             {
               "node_type": "item",
               "title": "SNIPER: Efficient Multi-Scale Training [Paper]",
-              "description": "[Code]",
+              "description": "mahyarnajibi/SNIPER",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -216,7 +216,7 @@
             {
               "node_type": "item",
               "title": "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network [Paper]",
-              "description": "[Code]",
+              "description": "VDIGPKU/M2Det",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -260,7 +260,7 @@
             {
               "node_type": "item",
               "title": "Learning Spatial Fusion for Single-Shot Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "GOATmessi8/ASFF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -281,7 +281,7 @@
             {
               "node_type": "item",
               "title": "Cascade R-CNN Delving into High Quality Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "zhaoweicai/cascade-rcnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges [Paper]",
-              "description": "[Code]",
+              "description": "dingjiansw101/AerialDetection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -355,10 +355,10 @@
             {
               "node_type": "item",
               "title": "RepPoints: Point Set Representation for Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "microsoft/RepPoints",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Represent Visual Objects by Point Sets",
                 "homepage": null,
                 "id": 191582252,
@@ -376,7 +376,7 @@
             {
               "node_type": "item",
               "title": "R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object [Paper]",
-              "description": "[Code]",
+              "description": "Thinklab-SJTU/R3Det_Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -402,7 +402,7 @@
             {
               "node_type": "item",
               "title": "QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "ChenhongyiYang/QueryDet-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -423,7 +423,7 @@
             {
               "node_type": "item",
               "title": "Oriented Object Detection in Aerial Images with Box Boundary-Aware Vectors [Paper]",
-              "description": "[Code]",
+              "description": "yijingru/BBAVectors-Oriented-Object-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "Advancing Plain Vision Transformer Towards Remote Sensing Foundation Model [Paper]",
-              "description": "[Code]",
+              "description": "ViTAE-Transformer/Remote-Sensing-RVSA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -478,7 +478,7 @@
             {
               "node_type": "item",
               "title": "BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation [Paper]",
-              "description": "[Code]",
+              "description": "shinya7y/UniverseNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -504,7 +504,7 @@
             {
               "node_type": "item",
               "title": "ReDet: A Rotation-equivariant Detector for Aerial Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "csuhan/ReDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -531,7 +531,7 @@
             {
               "node_type": "item",
               "title": "DetNet: A Backbone network for Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "ruoqianguo/DetNet_pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -552,7 +552,7 @@
             {
               "node_type": "item",
               "title": "Accurate Single Stage Detector Using Recurrent Rolling Convolution [Paper]",
-              "description": "[Code]",
+              "description": "xiaohaoChen/rrc_detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -573,7 +573,7 @@
             {
               "node_type": "item",
               "title": "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "Chasel-Tsui/mmdet-rfla",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -594,7 +594,7 @@
             {
               "node_type": "item",
               "title": "RepPoints V2: Verification Meets Regression for Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "Scalsol/RepPointsV2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -615,7 +615,7 @@
             {
               "node_type": "item",
               "title": "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery [Paper]",
-              "description": "[Code]",
+              "description": "avanetten/yolt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -636,7 +636,7 @@
             {
               "node_type": "item",
               "title": "Augmentation for small object detection [Paper]",
-              "description": "[Code]",
+              "description": "gmayday1997/SmallObjectAugmentation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -657,7 +657,7 @@
             {
               "node_type": "item",
               "title": "Corner Proposal Network for Anchor-free, Two-stage Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "Duankaiwen/CPNDet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -678,7 +678,7 @@
             {
               "node_type": "item",
               "title": "HoughNet: Integrating near and long-range evidence for bottom-up object detection [Paper]",
-              "description": "[Code]",
+              "description": "nerminsamet/houghnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -720,7 +720,7 @@
             {
               "node_type": "item",
               "title": "MatrixNets: A New Scale and Aspect Ratio Aware Architecture for Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "arashwan/matrixnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -741,7 +741,7 @@
             {
               "node_type": "item",
               "title": "DSSD : Deconvolutional Single Shot Detector [Paper]",
-              "description": "[Code]",
+              "description": "chengyangfu/caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,7 +762,7 @@
             {
               "node_type": "item",
               "title": "Interactive Multi-Class Tiny-Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "ChungYi347/Interactive-Multi-Class-Tiny-Object-Detection",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -783,7 +783,7 @@
             {
               "node_type": "item",
               "title": "FSSD: Feature Fusion Single Shot Multibox Detector [Paper]",
-              "description": "[Code]",
+              "description": "lzx1413/CAFFE_SSD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -807,7 +807,7 @@
             {
               "node_type": "item",
               "title": "Enriched Feature Guided Refinement Network for Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "Ranchentx/EFGRNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -828,7 +828,7 @@
             {
               "node_type": "item",
               "title": "Learning Calibrated-Guidance for Object Detection in Aerial Images [Paper]",
-              "description": "[Code]",
+              "description": "WeiZongqi/CG-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -849,7 +849,7 @@
             {
               "node_type": "item",
               "title": "Scale-Transferrable Object Detection [Paper]",
-              "description": "[Code]",
+              "description": "arvention/STDN-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -876,7 +876,7 @@
             {
               "node_type": "item",
               "title": "Feature-Fused SSD: Fast Detection for Small Objects [Paper]",
-              "description": "[Code]",
+              "description": "wnzhyee/Feature-Fused-SSD",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +931,7 @@
             {
               "node_type": "item",
               "title": "TinaFace: Strong but Simple Baseline for Face Detection [Paper]",
-              "description": "[Code]",
+              "description": "Media-Smart/vedadet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -957,7 +957,7 @@
             {
               "node_type": "item",
               "title": "Robust Face Detection via Learning Small Faces on Hard Images [Paper]",
-              "description": "[Code]",
+              "description": "bairdzhang/smallhardface",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -985,7 +985,7 @@
             {
               "node_type": "item",
               "title": "High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection [Paper]",
-              "description": "[Code]",
+              "description": "liuwei16/CSP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1065,7 +1065,7 @@
         {
           "node_type": "item",
           "title": "Tiny Object Detection in Aerial Images [Paper]",
-          "description": "[Code]",
+          "description": "jwwangchn/AI-TOD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T20:01:58.699Z",
+    "last_updated": "2026-10-03T05:10:16.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
