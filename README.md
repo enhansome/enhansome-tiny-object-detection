@@ -64,7 +64,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
   * Di Wang, Qiming Zhang, Yufei Xu, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang ***IEEE TGRS 2022***
 * **BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation** [\[Paper\]](https://arxiv.org/abs/2307.11748) [\[Code\]](https://github.com/shinya7y/UniverseNet) ⭐ 430 | 🐛 7 | 🌐 Python | 📅 2023-07-08
   * Yosuke Shinya ***MVA 2023***
-* **ReDet: A Rotation-equivariant Detector for Aerial Object Detection** [\[Paper\]](https://arxiv.org/abs/2103.07733) [\[Code\]](https://github.com/csuhan/ReDet) ⭐ 429 | 🐛 89 | 🌐 Python | 📅 2022-04-28
+* **ReDet: A Rotation-equivariant Detector for Aerial Object Detection** [\[Paper\]](https://arxiv.org/abs/2103.07733) [\[Code\]](https://github.com/csuhan/ReDet) ⭐ 429 | 🐛 90 | 🌐 Python | 📅 2022-04-28
   * Jiaming Han, Jian Ding, Nan Xue, Gui-Song Xia ***CVPR 2021***
 * **DetNet: A Backbone network for Object Detection** [\[Paper\]](https://arxiv.org/abs/1804.06215) [\[Code\]](https://github.com/guoruoqian/DetNet_pytorch) ⭐ 376 | 🐛 19 | 🌐 Python | 📅 2019-01-01
   * Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun ***ECCV 2018***
@@ -260,4 +260,4 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

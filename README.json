@@ -368,7 +368,7 @@
                 "open_issues": 35,
                 "owner": "microsoft",
                 "repo": "RepPoints",
-                "stars": 591,
+                "stars": 592,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -514,7 +514,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2022-04-28T12:13:50Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "csuhan",
                 "repo": "ReDet",
                 "stars": 429,
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:45:41.360Z",
+    "last_updated": "2026-10-04T18:42:17.122Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
@@ -1183,7 +1183,7 @@
       "open_issues": 2,
       "owner": "kuanhungchen",
       "repo": "awesome-tiny-object-detection",
-      "stars": 1631,
+      "stars": 1632,
       "topics": [
         "awesome-list",
         "face-detection",
