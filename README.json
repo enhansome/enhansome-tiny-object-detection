@@ -66,10 +66,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-30T16:53:46Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5528,
+                "stars": 5531,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2588,
+            "stars": 2590,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:42:17.122Z",
+    "last_updated": "2026-10-05T22:06:05.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
