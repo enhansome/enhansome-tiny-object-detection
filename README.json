@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15351,
+                "stars": 15352,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6473,
+                "stars": 6472,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -69,7 +69,7 @@
                 "open_issues": 5,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5538,
+                "stars": 5539,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2595,
+            "stars": 2597,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1130,7 +1130,7 @@
             "open_issues": 6,
             "owner": "IIM-TTIJ",
             "repo": "MVA2023SmallObjectDetection4SpottingBirds",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "competition",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T20:45:00.691Z",
+    "last_updated": "2026-10-09T20:11:52.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
