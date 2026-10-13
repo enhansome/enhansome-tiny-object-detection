@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15351,
+                "stars": 15352,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6472,
+                "stars": 6474,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -69,7 +69,7 @@
                 "open_issues": 5,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5543,
+                "stars": 5546,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -111,7 +111,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4121,
+                "stars": 4122,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -183,7 +183,7 @@
                 "open_issues": 115,
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
-                "stars": 2692,
+                "stars": 2693,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -517,7 +517,7 @@
                 "open_issues": 90,
                 "owner": "csuhan",
                 "repo": "ReDet",
-                "stars": 429,
+                "stars": 428,
                 "topics": [
                   "aerial-imagery",
                   "mmdetection",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2598,
+            "stars": 2600,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:32:07.889Z",
+    "last_updated": "2026-10-13T20:45:45.026Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
