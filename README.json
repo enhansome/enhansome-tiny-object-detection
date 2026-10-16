@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15349,
+                "stars": 15348,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6474,
+                "stars": 6475,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -65,11 +65,11 @@
                 "id": 334412452,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-15T06:22:57Z",
+                "last_commit": "2026-10-16T17:40:34Z",
                 "open_issues": 6,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5551,
+                "stars": 5552,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -415,7 +415,7 @@
                 "open_issues": 46,
                 "owner": "ChenhongyiYang",
                 "repo": "QueryDet-PyTorch",
-                "stars": 485,
+                "stars": 486,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -586,7 +586,7 @@
                 "open_issues": 28,
                 "owner": "Chasel-Tsui",
                 "repo": "mmdet-rfla",
-                "stars": 305,
+                "stars": 306,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2603,
+            "stars": 2604,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T19:17:14.840Z",
+    "last_updated": "2026-10-16T18:52:44.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
