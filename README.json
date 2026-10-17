@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15348,
+                "stars": 15349,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -69,7 +69,7 @@
                 "open_issues": 6,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5552,
+                "stars": 5554,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -158,7 +158,7 @@
                 "open_issues": 44,
                 "owner": "tusen-ai",
                 "repo": "simpledet",
-                "stars": 3087,
+                "stars": 3088,
                 "topics": [
                   "instance-segmentation",
                   "mxnet",
@@ -183,7 +183,7 @@
                 "open_issues": 115,
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
-                "stars": 2693,
+                "stars": 2692,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -294,7 +294,7 @@
                 "open_issues": 50,
                 "owner": "zhaoweicai",
                 "repo": "cascade-rcnn",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": [
                   "object-detection"
                 ]
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2604,
+            "stars": 2603,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:52:44.667Z",
+    "last_updated": "2026-10-17T17:53:30.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
