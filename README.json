@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15348,
+                "stars": 15349,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -69,7 +69,7 @@
                 "open_issues": 6,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5554,
+                "stars": 5557,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -273,7 +273,7 @@
                 "open_issues": 50,
                 "owner": "GOATmessi8",
                 "repo": "ASFF",
-                "stars": 1084,
+                "stars": 1083,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2605,
+            "stars": 2606,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1104,7 +1104,7 @@
             "open_issues": 3,
             "owner": "bosch-ros-pkg",
             "repo": "bstld",
-            "stars": 184,
+            "stars": 183,
             "topics": [
               "automated-driving",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:13:25.924Z",
+    "last_updated": "2026-10-19T20:39:40.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
