@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6475,
+                "stars": 6476,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -338,7 +338,7 @@
                 "open_issues": 35,
                 "owner": "ucas-vg",
                 "repo": "PointTinyBenchmark",
-                "stars": 697,
+                "stars": 698,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2607,
+            "stars": 2608,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:26:35.204Z",
+    "last_updated": "2026-10-21T19:26:20.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
@@ -1183,7 +1183,7 @@
       "open_issues": 2,
       "owner": "kuanhungchen",
       "repo": "awesome-tiny-object-detection",
-      "stars": 1633,
+      "stars": 1632,
       "topics": [
         "awesome-list",
         "face-detection",
