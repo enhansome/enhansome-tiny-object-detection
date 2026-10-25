@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15351,
+                "stars": 15352,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6475,
+                "stars": 6476,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -66,10 +66,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-16T17:40:34Z",
-                "open_issues": 8,
+                "open_issues": 10,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5562,
+                "stars": 5565,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -457,7 +457,7 @@
                 "open_issues": 33,
                 "owner": "ViTAE-Transformer",
                 "repo": "Remote-Sensing-RVSA",
-                "stars": 469,
+                "stars": 470,
                 "topics": [
                   "deep-learning",
                   "foundation-model",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2616,
+            "stars": 2619,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T18:16:12.578Z",
+    "last_updated": "2026-10-25T18:30:33.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
