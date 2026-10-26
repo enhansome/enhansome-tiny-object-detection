@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15352,
+                "stars": 15351,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -69,7 +69,7 @@
                 "open_issues": 10,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5565,
+                "stars": 5569,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -132,7 +132,7 @@
                 "open_issues": 112,
                 "owner": "ayooshkathuria",
                 "repo": "pytorch-yolo-v3",
-                "stars": 3314,
+                "stars": 3313,
                 "topics": [
                   "object-detection",
                   "pytorch",
@@ -183,7 +183,7 @@
                 "open_issues": 115,
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
-                "stars": 2692,
+                "stars": 2693,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -204,7 +204,7 @@
                 "open_issues": 148,
                 "owner": "yhenon",
                 "repo": "pytorch-retinanet",
-                "stars": 2204,
+                "stars": 2203,
                 "topics": [
                   "python",
                   "pytorch",
@@ -338,7 +338,7 @@
                 "open_issues": 35,
                 "owner": "ucas-vg",
                 "repo": "PointTinyBenchmark",
-                "stars": 698,
+                "stars": 699,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -389,7 +389,7 @@
                 "open_issues": 14,
                 "owner": "Thinklab-SJTU",
                 "repo": "R3Det_Tensorflow",
-                "stars": 544,
+                "stars": 545,
                 "topics": [
                   "dota",
                   "object-detection",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2619,
+            "stars": 2622,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T18:30:33.960Z",
+    "last_updated": "2026-10-26T20:39:21.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
