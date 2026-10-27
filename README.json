@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15351,
+                "stars": 15349,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -69,7 +69,7 @@
                 "open_issues": 10,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5569,
+                "stars": 5570,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -201,7 +201,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2023-04-29T14:16:18Z",
-                "open_issues": 148,
+                "open_issues": 147,
                 "owner": "yhenon",
                 "repo": "pytorch-retinanet",
                 "stars": 2203,
@@ -338,7 +338,7 @@
                 "open_issues": 35,
                 "owner": "ucas-vg",
                 "repo": "PointTinyBenchmark",
-                "stars": 699,
+                "stars": 700,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -917,7 +917,7 @@
                 "open_issues": 5,
                 "owner": "peiyunh",
                 "repo": "tiny",
-                "stars": 1143,
+                "stars": 1144,
                 "topics": [
                   "detection",
                   "detector",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2622,
+            "stars": 2623,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:39:21.654Z",
+    "last_updated": "2026-10-27T20:09:35.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
@@ -1183,7 +1183,7 @@
       "open_issues": 2,
       "owner": "kuanhungchen",
       "repo": "awesome-tiny-object-detection",
-      "stars": 1632,
+      "stars": 1633,
       "topics": [
         "awesome-list",
         "face-detection",
