@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6475,
+                "stars": 6476,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -65,11 +65,11 @@
                 "id": 334412452,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T17:40:34Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-29T06:24:01Z",
+                "open_issues": 11,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5572,
+                "stars": 5574,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -132,7 +132,7 @@
                 "open_issues": 112,
                 "owner": "ayooshkathuria",
                 "repo": "pytorch-yolo-v3",
-                "stars": 3313,
+                "stars": 3314,
                 "topics": [
                   "object-detection",
                   "pytorch",
@@ -183,7 +183,7 @@
                 "open_issues": 115,
                 "owner": "mahyarnajibi",
                 "repo": "SNIPER",
-                "stars": 2693,
+                "stars": 2691,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2626,
+            "stars": 2627,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T20:25:40.720Z",
+    "last_updated": "2026-10-29T20:24:14.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
