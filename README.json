@@ -69,7 +69,7 @@
                 "open_issues": 11,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5574,
+                "stars": 5575,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -111,7 +111,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4122,
+                "stars": 4124,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -229,7 +229,7 @@
                 "open_issues": 72,
                 "owner": "VDIGPKU",
                 "repo": "M2Det",
-                "stars": 1436,
+                "stars": 1437,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -250,7 +250,7 @@
                 "open_issues": 4,
                 "owner": "sfzhang15",
                 "repo": "RefineDet",
-                "stars": 1420,
+                "stars": 1421,
                 "topics": [
                   "object-detection"
                 ]
@@ -944,7 +944,7 @@
                 "open_issues": 38,
                 "owner": "Media-Smart",
                 "repo": "vedadet",
-                "stars": 502,
+                "stars": 501,
                 "topics": [
                   "object-detection",
                   "pytorch",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2627,
+            "stars": 2630,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T20:24:14.432Z",
+    "last_updated": "2026-10-30T19:58:47.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
