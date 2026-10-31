@@ -26,9 +26,9 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 * **End-to-End Object Detection with Transformers** [\[Paper\]](https://arxiv.org/abs/2005.12872) [\[Code\]](https://github.com/facebookresearch/detr) ⚠️ Archived
   * Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko ***ECCV 2020***
-* **EfficientDet: Scalable and Efficient Object Detection** [\[Paper\]](https://arxiv.org/abs/1911.09070) [\[Code\]](https://github.com/google/automl/tree/master/efficientdet) ⚠️ Archived [\[PyTorch\]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) ⭐ 5,232 | 🐛 370 | 🌐 Jupyter Notebook | 📅 2021-10-24 [\[PyTorch\]](https://github.com/toandaominh1997/EfficientDet.Pytorch) ⚠️ Archived [\[PyTorch\]](https://github.com/rwightman/efficientdet-pytorch) ⭐ 1,656 | 🐛 19 | 🌐 Python | 📅 2024-08-29 [\[TensorFlow\]](https://github.com/xuannianz/EfficientDet) ⭐ 1,451 | 🐛 7 | 🌐 Python | 📅 2023-10-03
+* **EfficientDet: Scalable and Efficient Object Detection** [\[Paper\]](https://arxiv.org/abs/1911.09070) [\[Code\]](https://github.com/google/automl/tree/master/efficientdet) ⚠️ Archived [\[PyTorch\]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) ⭐ 5,232 | 🐛 370 | 🌐 Jupyter Notebook | 📅 2021-10-24 [\[PyTorch\]](https://github.com/toandaominh1997/EfficientDet.Pytorch) ⚠️ Archived [\[PyTorch\]](https://github.com/rwightman/efficientdet-pytorch) ⭐ 1,656 | 🐛 19 | 🌐 Python | 📅 2024-08-29 [\[TensorFlow\]](https://github.com/xuannianz/EfficientDet) ⭐ 1,450 | 🐛 7 | 🌐 Python | 📅 2023-10-03
   * Mingxing Tan, Ruoming Pang, Quoc V. Le ***CVPR 2020***
-* **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [\[Paper\]](https://arxiv.org/abs/2202.06934) [\[Code\]](https://github.com/obss/sahi) ⭐ 5,575 | 🐛 11 | 🌐 Python | 📅 2026-10-29 [\[Benchmark\]](https://github.com/fcakyon/small-object-detection-benchmark) ⭐ 202 | 🐛 0 | 🌐 Python | 📅 2025-01-17
+* **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [\[Paper\]](https://arxiv.org/abs/2202.06934) [\[Code\]](https://github.com/obss/sahi) ⭐ 5,575 | 🐛 0 | 🌐 Python | 📅 2026-10-31 [\[Benchmark\]](https://github.com/fcakyon/small-object-detection-benchmark) ⭐ 202 | 🐛 0 | 🌐 Python | 📅 2025-01-17
   * Fatih Cagatay Akyon, Sinan Onur Altinuc, Alptekin Temizel ***ICIP 2022***
 * **Deformable Convolutional Networks** [\[Paper\]](https://arxiv.org/abs/1703.06211) [\[Code\]](https://github.com/msracver/Deformable-ConvNets) ⭐ 4,124 | 🐛 159 | 🌐 Python | 📅 2021-09-27
   * Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei ***ICCV 2017***
@@ -50,7 +50,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
   * Zhaowei Cai, Nuno Vasconcelos ***CVPR 2018***
 * **Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges** [\[Paper\]](https://arxiv.org/abs/2102.12219) [\[Code\]](https://github.com/dingjiansw101/AerialDetection) ⭐ 835 | 🐛 73 | 🌐 Python | 📅 2021-10-29
   * Jian Ding, Nan Xue, Gui-Song Xia, Xiang Bai, Wen Yang, Micheal Ying Yang, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang ***arXiv 2021***
-* **Scale Match for Tiny Person Detection** [\[Paper\]](https://arxiv.org/abs/1912.10664) [\[Benchmark\]](https://github.com/ucas-vg/TinyBenchmark) ⭐ 700 | 🐛 35 | 🌐 Python | 📅 2025-06-12
+* **Scale Match for Tiny Person Detection** [\[Paper\]](https://arxiv.org/abs/1912.10664) [\[Benchmark\]](https://github.com/ucas-vg/TinyBenchmark) ⭐ 699 | 🐛 35 | 🌐 Python | 📅 2025-06-12
   * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
 * **RepPoints: Point Set Representation for Object Detection** [\[Paper\]](https://arxiv.org/abs/1904.11490) [\[Code\]](https://github.com/microsoft/RepPoints) ⚠️ Archived
   * Ze Yang, Shaohui Liu, Han Hu, Liwei Wang, Stephen Lin ***ICCV 2019***
@@ -260,4 +260,4 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

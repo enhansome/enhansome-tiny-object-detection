@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6476,
+                "stars": 6475,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -65,8 +65,8 @@
                 "id": 334412452,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T06:24:01Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-31T19:10:41Z",
+                "open_issues": 0,
                 "owner": "obss",
                 "repo": "sahi",
                 "stars": 5575,
@@ -338,7 +338,7 @@
                 "open_issues": 35,
                 "owner": "ucas-vg",
                 "repo": "PointTinyBenchmark",
-                "stars": 700,
+                "stars": 699,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:58:47.907Z",
+    "last_updated": "2026-10-31T19:25:09.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
