@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15349,
+                "stars": 15345,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -66,10 +66,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T01:43:33Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5579,
+                "stars": 5580,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -111,7 +111,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4124,
+                "stars": 4123,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -273,7 +273,7 @@
                 "open_issues": 50,
                 "owner": "GOATmessi8",
                 "repo": "ASFF",
-                "stars": 1083,
+                "stars": 1084,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -944,7 +944,7 @@
                 "open_issues": 38,
                 "owner": "Media-Smart",
                 "repo": "vedadet",
-                "stars": 501,
+                "stars": 502,
                 "topics": [
                   "object-detection",
                   "pytorch",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2635,
+            "stars": 2636,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 31,
             "owner": "jwwangchn",
             "repo": "AI-TOD",
-            "stars": 282,
+            "stars": 281,
             "topics": [
               "aerial-images",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T21:10:09.253Z",
+    "last_updated": "2026-11-04T21:23:18.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
