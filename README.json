@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15344,
+                "stars": 15343,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -69,7 +69,7 @@
                 "open_issues": 2,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5585,
+                "stars": 5586,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -415,7 +415,7 @@
                 "open_issues": 46,
                 "owner": "ChenhongyiYang",
                 "repo": "QueryDet-PyTorch",
-                "stars": 486,
+                "stars": 487,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2636,
+            "stars": 2638,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T21:30:11.729Z",
+    "last_updated": "2026-11-06T20:58:12.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
@@ -1183,7 +1183,7 @@
       "open_issues": 2,
       "owner": "kuanhungchen",
       "repo": "awesome-tiny-object-detection",
-      "stars": 1633,
+      "stars": 1631,
       "topics": [
         "awesome-list",
         "face-detection",
