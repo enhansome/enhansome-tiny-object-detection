@@ -42,7 +42,7 @@
                 "open_issues": 157,
                 "owner": "google",
                 "repo": "automl",
-                "stars": 6475,
+                "stars": 6477,
                 "topics": [
                   "automl",
                   "efficientdet",
@@ -69,7 +69,7 @@
                 "open_issues": 2,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5592,
+                "stars": 5595,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -317,7 +317,7 @@
                 "open_issues": 73,
                 "owner": "dingjiansw101",
                 "repo": "AerialDetection",
-                "stars": 835,
+                "stars": 836,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 31,
             "owner": "jwwangchn",
             "repo": "AI-TOD",
-            "stars": 282,
+            "stars": 283,
             "topics": [
               "aerial-images",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T19:50:24.309Z",
+    "last_updated": "2026-11-09T23:49:06.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
