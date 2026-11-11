@@ -69,7 +69,7 @@
                 "open_issues": 2,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5597,
+                "stars": 5600,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -111,7 +111,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4123,
+                "stars": 4122,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -917,7 +917,7 @@
                 "open_issues": 5,
                 "owner": "peiyunh",
                 "repo": "tiny",
-                "stars": 1144,
+                "stars": 1143,
                 "topics": [
                   "detection",
                   "detector",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2643,
+            "stars": 2645,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1078,7 +1078,7 @@
             "open_issues": 31,
             "owner": "jwwangchn",
             "repo": "AI-TOD",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "aerial-images",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T21:21:55.220Z",
+    "last_updated": "2026-11-11T22:05:29.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
