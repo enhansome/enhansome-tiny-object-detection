@@ -66,10 +66,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T01:43:33Z",
-                "open_issues": 2,
+                "open_issues": 14,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5600,
+                "stars": 5601,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -415,7 +415,7 @@
                 "open_issues": 46,
                 "owner": "ChenhongyiYang",
                 "repo": "QueryDet-PyTorch",
-                "stars": 487,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -917,7 +917,7 @@
                 "open_issues": 5,
                 "owner": "peiyunh",
                 "repo": "tiny",
-                "stars": 1143,
+                "stars": 1144,
                 "topics": [
                   "detection",
                   "detector",
@@ -1078,7 +1078,7 @@
             "open_issues": 31,
             "owner": "jwwangchn",
             "repo": "AI-TOD",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "aerial-images",
               "computer-vision",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T22:05:29.948Z",
+    "last_updated": "2026-11-12T21:52:36.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
