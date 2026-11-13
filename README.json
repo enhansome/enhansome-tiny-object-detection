@@ -21,7 +21,7 @@
                 "open_issues": 255,
                 "owner": "facebookresearch",
                 "repo": "detr",
-                "stars": 15345,
+                "stars": 15344,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -69,7 +69,7 @@
                 "open_issues": 14,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5601,
+                "stars": 5603,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -294,7 +294,7 @@
                 "open_issues": 50,
                 "owner": "zhaoweicai",
                 "repo": "cascade-rcnn",
-                "stars": 1061,
+                "stars": 1062,
                 "topics": [
                   "object-detection"
                 ]
@@ -917,7 +917,7 @@
                 "open_issues": 5,
                 "owner": "peiyunh",
                 "repo": "tiny",
-                "stars": 1144,
+                "stars": 1145,
                 "topics": [
                   "detection",
                   "detector",
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:52:36.606Z",
+    "last_updated": "2026-11-13T21:28:42.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
