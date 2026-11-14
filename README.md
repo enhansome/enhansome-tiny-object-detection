@@ -188,7 +188,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ### Tiny Pedestrian Detection
 
-* **High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection** [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/liuwei16/CSP) ⭐ 753 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2022-11-22
+* **High-level Semantic Feature Detection: A New Perspective for Pedestrian Detection** [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_High-Level_Semantic_Feature_Detection_A_New_Perspective_for_Pedestrian_Detection_CVPR_2019_paper.pdf) [\[Code\]](https://github.com/liuwei16/CSP) ⭐ 754 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2022-11-22
   * Wei Liu, ShengCai Liao, Weiqiang Ren, Weidong Hu, Yinan Yu ***CVPR 2019***
 * **Feature Selective Anchor-Free Module for Single-Shot Object Detection** [\[Paper\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Feature_Selective_Anchor-Free_Module_for_Single-Shot_Object_Detection_CVPR_2019_paper.pdf) [\[PyTorch\]](https://github.com/hdjang/Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection) ⭐ 147 | 🐛 5 | 🌐 Python | 📅 2025-11-26 [\[TensorFlow\]](https://github.com/xuannianz/FSAF) ⭐ 119 | 🐛 2 | 🌐 Python | 📅 2023-10-03
   * Chenchen Zhu, Yihui He, Marios Savvides ***CVPR 2019***
@@ -199,7 +199,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ## Datasets
 
-* **Detection and Tracking Meet Drones Challenge** [\[Paper\]](https://arxiv.org/abs/2001.06303) [\[Project\]](http://aiskyeye.com/) [\[Code\]](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,645 | 🐛 51 | 📅 2023-09-24
+* **Detection and Tracking Meet Drones Challenge** [\[Paper\]](https://arxiv.org/abs/2001.06303) [\[Project\]](http://aiskyeye.com/) [\[Code\]](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,646 | 🐛 51 | 📅 2023-09-24
   * Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling ***TPAMI 2021***
 * **Tiny Object Detection in Aerial Images** [\[Paper\]](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) [\[Code\]](https://github.com/jwwangchn/AI-TOD) ⭐ 285 | 🐛 31 | 🌐 Python | 📅 2024-11-13
   * Jinwang Wang, Wen Yang, Haowen Guo, Ruixiang Zhang, Gui-Song Xia ***ICPR 2021***
@@ -260,4 +260,4 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
