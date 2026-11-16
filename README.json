@@ -69,7 +69,7 @@
                 "open_issues": 14,
                 "owner": "obss",
                 "repo": "sahi",
-                "stars": 5604,
+                "stars": 5607,
                 "topics": [
                   "coco",
                   "computer-vision",
@@ -338,7 +338,7 @@
                 "open_issues": 35,
                 "owner": "ucas-vg",
                 "repo": "PointTinyBenchmark",
-                "stars": 699,
+                "stars": 700,
                 "topics": [
                   "benchmark",
                   "dataset",
@@ -389,7 +389,7 @@
                 "open_issues": 14,
                 "owner": "Thinklab-SJTU",
                 "repo": "R3Det_Tensorflow",
-                "stars": 545,
+                "stars": 546,
                 "topics": [
                   "dota",
                   "object-detection",
@@ -517,7 +517,7 @@
                 "open_issues": 90,
                 "owner": "csuhan",
                 "repo": "ReDet",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "aerial-imagery",
                   "mmdetection",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2649,
+            "stars": 2650,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T20:27:40.396Z",
+    "last_updated": "2026-11-16T23:46:50.308Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
