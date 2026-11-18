@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2650,
+            "stars": 2652,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T23:01:54.491Z",
+    "last_updated": "2026-11-18T22:38:47.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
