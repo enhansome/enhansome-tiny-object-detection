@@ -26,11 +26,11 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 * **End-to-End Object Detection with Transformers** [\[Paper\]](https://arxiv.org/abs/2005.12872) [\[Code\]](https://github.com/facebookresearch/detr) ⚠️ Archived
   * Nicolas Carion, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, Sergey Zagoruyko ***ECCV 2020***
-* **EfficientDet: Scalable and Efficient Object Detection** [\[Paper\]](https://arxiv.org/abs/1911.09070) [\[Code\]](https://github.com/google/automl/tree/master/efficientdet) ⚠️ Archived [\[PyTorch\]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) ⭐ 5,231 | 🐛 370 | 🌐 Jupyter Notebook | 📅 2021-10-24 [\[PyTorch\]](https://github.com/toandaominh1997/EfficientDet.Pytorch) ⚠️ Archived [\[PyTorch\]](https://github.com/rwightman/efficientdet-pytorch) ⭐ 1,655 | 🐛 19 | 🌐 Python | 📅 2024-08-29 [\[TensorFlow\]](https://github.com/xuannianz/EfficientDet) ⭐ 1,451 | 🐛 7 | 🌐 Python | 📅 2023-10-03
+* **EfficientDet: Scalable and Efficient Object Detection** [\[Paper\]](https://arxiv.org/abs/1911.09070) [\[Code\]](https://github.com/google/automl/tree/master/efficientdet) ⚠️ Archived [\[PyTorch\]](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) ⭐ 5,230 | 🐛 370 | 🌐 Jupyter Notebook | 📅 2021-10-24 [\[PyTorch\]](https://github.com/toandaominh1997/EfficientDet.Pytorch) ⚠️ Archived [\[PyTorch\]](https://github.com/rwightman/efficientdet-pytorch) ⭐ 1,655 | 🐛 19 | 🌐 Python | 📅 2024-08-29 [\[TensorFlow\]](https://github.com/xuannianz/EfficientDet) ⭐ 1,451 | 🐛 7 | 🌐 Python | 📅 2023-10-03
   * Mingxing Tan, Ruoming Pang, Quoc V. Le ***CVPR 2020***
-* **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [\[Paper\]](https://arxiv.org/abs/2202.06934) [\[Code\]](https://github.com/obss/sahi) ⭐ 5,607 | 🐛 14 | 🌐 Python | 📅 2026-11-01 [\[Benchmark\]](https://github.com/fcakyon/small-object-detection-benchmark) ⭐ 203 | 🐛 0 | 🌐 Python | 📅 2025-01-17
+* **Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection** [\[Paper\]](https://arxiv.org/abs/2202.06934) [\[Code\]](https://github.com/obss/sahi) ⭐ 5,607 | 🐛 15 | 🌐 Python | 📅 2026-11-01 [\[Benchmark\]](https://github.com/fcakyon/small-object-detection-benchmark) ⭐ 203 | 🐛 0 | 🌐 Python | 📅 2025-01-17
   * Fatih Cagatay Akyon, Sinan Onur Altinuc, Alptekin Temizel ***ICIP 2022***
-* **Deformable Convolutional Networks** [\[Paper\]](https://arxiv.org/abs/1703.06211) [\[Code\]](https://github.com/msracver/Deformable-ConvNets) ⭐ 4,122 | 🐛 159 | 🌐 Python | 📅 2021-09-27
+* **Deformable Convolutional Networks** [\[Paper\]](https://arxiv.org/abs/1703.06211) [\[Code\]](https://github.com/msracver/Deformable-ConvNets) ⭐ 4,121 | 🐛 159 | 🌐 Python | 📅 2021-09-27
   * Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei ***ICCV 2017***
 * **YOLOv3: An Incremental Improvement** [\[Paper\]](https://arxiv.org/abs/1804.02767) [\[Project\]](https://pjreddie.com/darknet/yolo/) [\[Code\]](https://github.com/ayooshkathuria/pytorch-yolo-v3) ⭐ 3,314 | 🐛 112 | 🌐 Python | 📅 2024-01-16
   * Joseph Redmon, Ali Farhadi ***arXiv 2018***
@@ -40,9 +40,9 @@ A curated list of `Tiny Object Detection` papers and related resources.
   * Bharat Singh, Mahyar Najibi, Larry S. Davis ***NeurIPS 2018***
 * **Focal Loss for Dense Object Detection** [\[Paper\]](https://arxiv.org/abs/1708.02002) [\[PyTorch\]](https://github.com/yhenon/pytorch-retinanet) ⚠️ Archived
   * Tsung-Yi Lin, Priya Goyal, Ross Girshick, Kaiming He, Piotr Dollár ***ICCV 2017***
-* **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network** [\[Paper\]](https://arxiv.org/abs/1811.04533) [\[Code\]](https://github.com/qijiezhao/M2Det) ⭐ 1,436 | 🐛 72 | 🌐 Python | 📅 2019-11-14
+* **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network** [\[Paper\]](https://arxiv.org/abs/1811.04533) [\[Code\]](https://github.com/qijiezhao/M2Det) ⭐ 1,435 | 🐛 72 | 🌐 Python | 📅 2019-11-14
   * Qijie Zhao, Tao Sheng, Yongtao Wang, Zhi Tang, Ying Chen, Ling Cai, Haibin Ling ***AAAI 2019***
-* **Single-Shot Refinement Neural Network for Object Detection** [\[Paper\]](https://arxiv.org/abs/1711.06897) [\[Code\]](https://github.com/sfzhang15/RefineDet) ⭐ 1,421 | 🐛 4 | 🌐 C++ | 📅 2019-03-18 [\[PyTorch\]](https://github.com/dd604/refinedet.pytorch) ⭐ 34 | 🐛 11 | 🌐 Python | 📅 2022-11-22
+* **Single-Shot Refinement Neural Network for Object Detection** [\[Paper\]](https://arxiv.org/abs/1711.06897) [\[Code\]](https://github.com/sfzhang15/RefineDet) ⭐ 1,420 | 🐛 4 | 🌐 C++ | 📅 2019-03-18 [\[PyTorch\]](https://github.com/dd604/refinedet.pytorch) ⭐ 34 | 🐛 11 | 🌐 Python | 📅 2022-11-22
   * Shifeng Zhang, Longyin Wen, Xiao Bian, Zhen Lei, Stan Z. Li ***CVPR 2018***
 * **Learning Spatial Fusion for Single-Shot Object Detection** [\[Paper\]](https://arxiv.org/abs/1911.09516) [\[Code\]](https://github.com/ruinmessi/ASFF) ⭐ 1,084 | 🐛 50 | 🌐 Python | 📅 2021-07-24
   * Songtao Liu, Di Huang, Yunhong Wang ***arXiv 2019***
@@ -54,7 +54,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
   * Xuehui Yu, Yuqi Gong, Nan Jiang, Qixiang Ye, Zhenjun Han ***WACV 2020***
 * **RepPoints: Point Set Representation for Object Detection** [\[Paper\]](https://arxiv.org/abs/1904.11490) [\[Code\]](https://github.com/microsoft/RepPoints) ⚠️ Archived
   * Ze Yang, Shaohui Liu, Han Hu, Liwei Wang, Stephen Lin ***ICCV 2019***
-* **R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object** [\[Paper\]](https://arxiv.org/abs/1908.05612) [\[Code\]](https://github.com/Thinklab-SJTU/R3Det_Tensorflow) ⭐ 546 | 🐛 14 | 🌐 Python | 📅 2021-08-29
+* **R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object** [\[Paper\]](https://arxiv.org/abs/1908.05612) [\[Code\]](https://github.com/Thinklab-SJTU/R3Det_Tensorflow) ⭐ 545 | 🐛 14 | 🌐 Python | 📅 2021-08-29
   * Yang, Xue and Liu, Qingqing and Yan, Junchi and Li, Ang and Zhiqiang, Zhang and Gang, Yu ***AAAI 2021***
 * **QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection** [\[Paper\]](https://arxiv.org/abs/2103.09136) [\[Code\]](https://github.com/ChenhongyiYang/QueryDet-PyTorch) ⭐ 488 | 🐛 46 | 🌐 Python | 📅 2024-03-22
   * Chenhongyi Yang, Zehao Huang, Naiyan Wang ***CVPR 2022***
@@ -64,7 +64,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
   * Di Wang, Qiming Zhang, Yufei Xu, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang ***IEEE TGRS 2022***
 * **BandRe: Rethinking Band-Pass Filters for Scale-Wise Object Detection Evaluation** [\[Paper\]](https://arxiv.org/abs/2307.11748) [\[Code\]](https://github.com/shinya7y/UniverseNet) ⭐ 430 | 🐛 7 | 🌐 Python | 📅 2023-07-08
   * Yosuke Shinya ***MVA 2023***
-* **ReDet: A Rotation-equivariant Detector for Aerial Object Detection** [\[Paper\]](https://arxiv.org/abs/2103.07733) [\[Code\]](https://github.com/csuhan/ReDet) ⭐ 429 | 🐛 90 | 🌐 Python | 📅 2022-04-28
+* **ReDet: A Rotation-equivariant Detector for Aerial Object Detection** [\[Paper\]](https://arxiv.org/abs/2103.07733) [\[Code\]](https://github.com/csuhan/ReDet) ⭐ 428 | 🐛 90 | 🌐 Python | 📅 2022-04-28
   * Jiaming Han, Jian Ding, Nan Xue, Gui-Song Xia ***CVPR 2021***
 * **DetNet: A Backbone network for Object Detection** [\[Paper\]](https://arxiv.org/abs/1804.06215) [\[Code\]](https://github.com/guoruoqian/DetNet_pytorch) ⭐ 376 | 🐛 19 | 🌐 Python | 📅 2019-01-01
   * Zeming Li, Chao Peng, Gang Yu, Xiangyu Zhang, Yangdong Deng, Jian Sun ***ECCV 2018***
@@ -199,7 +199,7 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ## Datasets
 
-* **Detection and Tracking Meet Drones Challenge** [\[Paper\]](https://arxiv.org/abs/2001.06303) [\[Project\]](http://aiskyeye.com/) [\[Code\]](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,652 | 🐛 51 | 📅 2023-09-24
+* **Detection and Tracking Meet Drones Challenge** [\[Paper\]](https://arxiv.org/abs/2001.06303) [\[Project\]](http://aiskyeye.com/) [\[Code\]](https://github.com/VisDrone/VisDrone-Dataset) ⭐ 2,653 | 🐛 51 | 📅 2023-09-24
   * Pengfei Zhu, Longyin Wen, Dawei Du, Xiao Bian, Heng Fan, Qinghua Hu, Haibin Ling ***TPAMI 2021***
 * **Tiny Object Detection in Aerial Images** [\[Paper\]](https://drive.google.com/file/d/1IiTp7gilwDCGr8QR_H9Covz8aVK7LXiI/view) [\[Code\]](https://github.com/jwwangchn/AI-TOD) ⭐ 285 | 🐛 31 | 🌐 Python | 📅 2024-11-13
   * Jinwang Wang, Wen Yang, Haowen Guo, Ruixiang Zhang, Gui-Song Xia ***ICPR 2021***
@@ -260,4 +260,4 @@ A curated list of `Tiny Object Detection` papers and related resources.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

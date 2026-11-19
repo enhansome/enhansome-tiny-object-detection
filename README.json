@@ -66,7 +66,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-01T01:43:33Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "obss",
                 "repo": "sahi",
                 "stars": 5607,
@@ -111,7 +111,7 @@
                 "open_issues": 159,
                 "owner": "msracver",
                 "repo": "Deformable-ConvNets",
-                "stars": 4122,
+                "stars": 4121,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -204,7 +204,7 @@
                 "open_issues": 147,
                 "owner": "yhenon",
                 "repo": "pytorch-retinanet",
-                "stars": 2203,
+                "stars": 2202,
                 "topics": [
                   "python",
                   "pytorch",
@@ -229,7 +229,7 @@
                 "open_issues": 72,
                 "owner": "VDIGPKU",
                 "repo": "M2Det",
-                "stars": 1436,
+                "stars": 1435,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:03:07.031Z"
@@ -250,7 +250,7 @@
                 "open_issues": 4,
                 "owner": "sfzhang15",
                 "repo": "RefineDet",
-                "stars": 1421,
+                "stars": 1420,
                 "topics": [
                   "object-detection"
                 ]
@@ -389,7 +389,7 @@
                 "open_issues": 14,
                 "owner": "Thinklab-SJTU",
                 "repo": "R3Det_Tensorflow",
-                "stars": 546,
+                "stars": 545,
                 "topics": [
                   "dota",
                   "object-detection",
@@ -517,7 +517,7 @@
                 "open_issues": 90,
                 "owner": "csuhan",
                 "repo": "ReDet",
-                "stars": 429,
+                "stars": 428,
                 "topics": [
                   "aerial-imagery",
                   "mmdetection",
@@ -1057,7 +1057,7 @@
             "open_issues": 51,
             "owner": "VisDrone",
             "repo": "VisDrone-Dataset",
-            "stars": 2652,
+            "stars": 2653,
             "topics": []
           },
           "first_seen": "2026-08-29T00:03:07.031Z"
@@ -1171,7 +1171,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:38:47.648Z",
+    "last_updated": "2026-11-19T22:42:18.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "🕶 A curated list of Tiny Object Detection papers and related resources.",
